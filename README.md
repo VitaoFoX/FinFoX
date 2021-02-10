@@ -7,8 +7,8 @@ FinFoX é um projeto para controle de contas a pagar e contas a receber de modo 
 
 ## Screenshots
 <h1 align="center">
-  <img src=".github/dashboard.png" height="270px" />
-  <img src=".github/lancamento.png" height="268px" />
+  <img src=".github/dashboard.png" height="300px" />
+  <img src=".github/lancamento.png" height="300px" />
   <img src=".github/historico.png" height="300px" />
   <img src=".github/detalhes.png" height="300px" />
 </h1>
