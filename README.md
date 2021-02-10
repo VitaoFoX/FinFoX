@@ -14,6 +14,11 @@ FinFoX é um projeto para controle de contas a pagar e contas a receber de modo 
 </h1>
 
 
-### Algumas __features__
+### Running
+
+```sh
+yarn
+yarn react-native run-android
+```
 
 
